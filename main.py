@@ -52,8 +52,8 @@ async def _(e):
             telethon.Button.inline("CC", b"Proxys"),
         ],
         [
-            telethon.Button.url("Support", url="https://t.me/InducedBotsSupport"),
-            telethon.Button.url("Dev's", url="https://t.me/InducedDevOp"),
+            telethon.Button.url("Support", url="https://t.me/Jual_Nokos_Telegram"),
+            telethon.Button.url("Dev's", url="https://t.me/Rommelxx"),
             telethon.Button.inline("🛰 Admin Pannel", b"Admin"),
         ]
     ]
