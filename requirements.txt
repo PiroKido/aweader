@@ -3,3 +3,16 @@ telethon
 requests
 psutil
 python-dotenv
+
+# Important Requirements (Set-2)
+
+heroku3
+pyrogram==1.0.7
+telethon
+pyromod
+tgcrypto
+requests
+Pillow
+sqlalchemy~=1.3.23
+psycopg2-binary
+feedparser
