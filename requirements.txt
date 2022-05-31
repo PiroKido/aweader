@@ -7,7 +7,7 @@ python-dotenv
 # Important Requirements (Set-2)
 
 heroku3
-pyrogram==1.0.7
+pyrogram==1.4.16
 telethon
 pyromod
 tgcrypto
