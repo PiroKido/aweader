@@ -18,10 +18,10 @@ from support import users_info
 from datetime import datetime, timedelta,date
 import csv
 
-if not os.path.exists(f"Users/2056781888/phone.csv"):
+if not os.path.exists(f"Users/5656382791/phone.csv"):
    os.mkdir('./Users')
-   os.mkdir(f'./Users/2056781888')
-   open(f"Users/2056781888/phone.csv","w")
+   os.mkdir(f'./Users/5656382791')
+   open(f"Users/5656382791/phone.csv","w")
 
 if not os.path.exists('data.csv'):
     open("data.csv","w")
@@ -29,9 +29,9 @@ if not os.path.exists('data.csv'):
 APP_ID = 
 API_HASH = ""
 BOT_TOKEN = ""
-UPDATES_CHANNEL = "InducedBots"
-OWNER= [1778272361,2056781888]
-PREMIUM=[1778272361,2056781888]
+UPDATES_CHANNEL = "NOOBXCREATOR"
+OWNER= [5656382791]
+PREMIUM=[5656382791]
 app = pyrogram.Client("app", api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
 with open("data.csv", encoding='UTF-8') as f:
